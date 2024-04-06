@@ -3,6 +3,7 @@
 ##############       REFERENCE WILL BE ADDED HERE      #############
 
 **Novel multimodal working memory task for investigating two modalities: visual and verbal**
+
 I created these two files to (as can be easily guessed by the names):
 - generate a set of stimuli for our novel WM task;
 - create unique sequences of stimuli for each participant.
