@@ -13,7 +13,9 @@ I created these two files to (as can be easily guessed by the names):
 Hense, when developing the rules for stimuli and sequence generation we ONLY considered the graphic and phonological characteristics of cyrillic letters.
 If you would like to use these scripts for non-Russian speaking sample, you should work out the set of rules based on the characteristics of your language.
 
-
 Should you have any questions or comments concerning these scripts,
 do not hesitate to contact me via email:
 *voevodina.kathrine@gmail.com*
+
+Or visit my GitHub profile:
+*https://github.com/bonokat*
